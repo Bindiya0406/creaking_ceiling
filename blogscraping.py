@@ -1,3 +1,4 @@
+#program to scrape title,date,and url for each blog in "https://www.rithmschool.com"
 import requests
 from bs4 import BeautifulSoup
 from csv import writer
