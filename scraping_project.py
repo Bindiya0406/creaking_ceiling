@@ -1,3 +1,4 @@
+#game to guess author of a given quote after scraping quotes from http://quotes.toscrape.com
 from bs4 import BeautifulSoup
 import requests
 from random import choice
