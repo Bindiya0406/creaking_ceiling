@@ -1,4 +1,4 @@
-#https://books.toscrape.com/
+#program to scrape bookname and price from https://books.toscrape.com/ using scrapy
 
 import scrapy
 
